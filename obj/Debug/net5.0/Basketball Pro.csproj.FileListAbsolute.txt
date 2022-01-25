@@ -1,0 +1,40 @@
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\appsettings.json
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.exe
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.deps.json
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.runtimeconfig.json
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.runtimeconfig.dev.json
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.dll
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\ref\Basketball Pro.dll
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.pdb
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.Views.dll
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\bin\Debug\net5.0\Basketball Pro.Views.pdb
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.csprojAssemblyReference.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.AssemblyInfoInputs.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.AssemblyInfo.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.csproj.CoreCompileInputs.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.RazorAssemblyInfo.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.RazorAssemblyInfo.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\staticwebassets\Basketball Pro.StaticWebAssets.Manifest.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\staticwebassets\Basketball Pro.StaticWebAssets.xml
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\scopedcss\bundle\Basketball Pro.styles.css
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.TagHelpers.input.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.TagHelpers.output.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.RazorCoreGenerate.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.RazorTargetAssemblyInfo.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.RazorTargetAssemblyInfo.cs
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.Views.pdb
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.dll
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\ref\Basketball Pro.dll
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.pdb
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.genruntimeconfig.cache
+C:\Users\Dwayne Wilson\source\repos\Basketball Pro\obj\Debug\net5.0\Basketball Pro.csproj.CopyComplete
